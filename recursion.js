@@ -7,6 +7,9 @@ function factorial(num){
     return fact;
 }
 
+//5! = 1*2*3*4*5
+// 0! = 1
+
 
 function factorialRecursive(num) {
     if(num == 1){
